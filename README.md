@@ -6,7 +6,7 @@ allows users to upload any stage and discharge datasets, develop and optimize ra
 save and compare results from previous sessions.
 
 ###### Contributing Authors
-NHC (Tyler De Jong, Tobias Muller), ENV
+NHC (Tyler De Jong, Tobias Muller), BCGOV
 
 ###### Updated
 10/13/2022
